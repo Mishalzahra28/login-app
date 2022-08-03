@@ -1,0 +1,8 @@
+.data {
+  margin: 0 auto;
+  text-align: center;
+  border: 0.25px solid rgb(0, 0, 0, 0.35);
+  border-radius: 5px;
+  max-width: 60%;
+  padding: 10px;
+}
